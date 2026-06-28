@@ -1,3 +1,4 @@
+This repository contains my official submission for the Learn2Earn “Tell Your Story” bounty.
 # Learn2Earn - Tell Your Story Submission
 
 ## 👋 Overview
